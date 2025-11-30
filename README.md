@@ -1,6 +1,10 @@
 # Stash 下载最新版下载Clash官网资源
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="Stash" src="https://github.com/user-attachments/assets/5768bba0-f13b-4e75-8fcb-8efb6baa6144" />
+</div>
+<br>
 
 ## :memo: Clash节点资源
 
